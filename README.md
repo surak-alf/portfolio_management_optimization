@@ -6,14 +6,6 @@ This repository contains the analysis and results of a comparative study on the 
 
 The project aims to provide a comprehensive understanding of the risk-return profiles of TSLA, BND, and SPY. By calculating VaR and Sharpe Ratio, we quantify the potential losses and risk-adjusted returns for each asset. Additionally, time series decomposition and volatility analysis offer insights into the underlying patterns and fluctuations of their price movements.
 
-## Files
-
-* **`analysis.ipynb`**: Jupyter Notebook containing the Python code for data analysis, calculations, and visualizations.
-* **`data/tsla_data.csv`**: CSV file containing historical price data for TSLA.
-* **`data/bnd_data.csv`**: CSV file containing historical price data for BND.
-* **`data/spy_data.csv`**: CSV file containing historical price data for SPY.
-* **`README.md`**: This file, providing an overview of the project.
-
 ## Methodology
 
 1.  **Data Acquisition:** Historical price data for TSLA, BND, and SPY was downloaded and stored in CSV files.
